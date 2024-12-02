@@ -14,6 +14,14 @@ Certifique-se de ter instalado:
 - **Python 3.7+**
 - **Bibliotecas necessárias**: Instale as dependências listadas no arquivo `requirements.txt`.
 
+- # Como Rodar o Projeto 🏃‍♂️
+Após clonar e instalar as dependências, siga estes passos para rodar o projeto:
+
+Execute o arquivo principal:
+```bash
+python Urna-Eletronica.py
+
+
 ## Instalação 🚀
 
 1. **Clone o repositório**:
