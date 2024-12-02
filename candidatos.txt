@@ -1,0 +1,9 @@
+José da Silva,7321,PTB,MG,F
+Maria do Carmo,7321,PCB,SP,F
+Pedro de Azevedo,731,PTB,PR,S
+Antônio de Melo,151, PCB,SP,S
+Carlos Nascimento,18151,PXB,MG,E
+Guilherme Guimarães,73215,PTB,SP,E
+Paulo da Cunha,15,PXB,SP,P
+Emília Santos,15,PCT,MG,G
+Cristiano Costa,1894,PCE,SP,F

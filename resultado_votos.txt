@@ -1,0 +1,15 @@
+Eleitores Aptos: 10
+Total de Votos Nominais: 6
+Brancos: 3
+Nulos: 1
+
+Candidato: 15 | Cargo: G | Estado: MG | Votos: 1 (50.00%)
+Candidato: Branco | Cargo: G | Estado: MG | Votos: 1 (50.00%)
+Candidato: Branco | Cargo: S | Estado: MG | Votos: 1 (50.00%)
+Candidato: N | Cargo: S | Estado: MG | Votos: 1 (50.00%)
+Candidato: 7321 | Cargo: F | Estado: MG | Votos: 1 (50.00%)
+Candidato: N | Cargo: F | Estado: MG | Votos: 1 (50.00%)
+Candidato: 15 | Cargo: P | Estado: MG | Votos: 1 (50.00%)
+Candidato: Branco | Cargo: P | Estado: MG | Votos: 1 (50.00%)
+Candidato: N | Cargo: E | Estado: MG | Votos: 1 (50.00%)
+Candidato: Nulo | Cargo: E | Estado: MG | Votos: 1 (50.00%)
